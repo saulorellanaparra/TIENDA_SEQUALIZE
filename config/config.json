@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "f3f3b22a",
+    "database": "tienda",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "f3f3b22a",
+    "database": "tienda",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "f3f3b22a",
+    "database": "tienda",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
